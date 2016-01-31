@@ -1,0 +1,2 @@
+The size of given file is : 912 byte
+the shown time is 4.

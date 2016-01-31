@@ -1,0 +1,1 @@
+The size of given file is : 912 byte
